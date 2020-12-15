@@ -1,0 +1,210 @@
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-17-1990
+--------------------------------------------------
+
+14:55:43 Call
+14:56:23 GET dtn197.dat -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 78624 chars
+
+14:58:28 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-17-1990
+--------------------------------------------------
+
+14:58:33 Call
+14:59:11 GET dtx197.dat -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 13280 chars
+
+14:59:40 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-17-1990
+--------------------------------------------------
+
+15:18:11 Call
+15:19:07 GET dtn197.dat -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 78624 chars
+
+15:21:09 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-17-1990
+--------------------------------------------------
+
+15:21:15 Call
+15:21:52 GET d2n197.dat -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 75348 chars
+
+15:23:57 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-17-1990
+--------------------------------------------------
+
+15:42:59 Call
+15:43:35 GET dtx197.dat -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 13280 chars
+
+15:44:07 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-17-1990
+--------------------------------------------------
+
+15:44:12 Call
+15:44:47 GET d2x197.dat -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 320 chars
+
+15:44:54 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:06:04 Call
+00:06:30 GET dtx200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 6240 chars
+
+00:06:45 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:06:50 Call
+00:07:22 GET dtn200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 78624 chars
+
+00:09:11 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:09:17 Call
+00:09:49 GET d2x200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 160 chars
+
+00:09:55 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:10:01 Call
+00:10:33 GET d2n200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 75348 chars
+
+00:12:17 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:12:22 Call
+00:12:51 GET feesm200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 8129 chars
+
+00:13:10 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:13:15 Call
+00:13:47 GET fbsi200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 70971 chars
+
+00:15:44 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:15:50 Call
+00:17:03 GET csups200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 417690 chars
+
+00:27:24 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:27:29 Call
+00:28:07 GET expur200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 85312 chars
+
+00:30:35 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:30:40 Call
+00:31:19 GET exred200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 85504 chars
+
+00:33:46 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:33:51 Call
+00:34:54 GET avvdl200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 226284 chars
+
+00:41:22 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:41:27 Call
+00:42:02 GET ccmsd200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 8670 chars
+
+00:42:24 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:42:29 Call
+00:42:59 GET ajd200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 856 chars
+
+00:43:08 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:43:14 Call
+00:43:52 GET spech200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 4378 chars
+
+00:44:07 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:44:12 Call
+00:44:53 GET fprs200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 15977 chars
+
+00:45:28 END OF LOG
+--------------------------------------------------
+LW TRANSFER LOG
+Current date is 07-20-1990
+--------------------------------------------------
+
+00:45:33 Call
+00:46:19 GET fnas200.DAT -o -t FROM LWXFORM.TMP IN USER
+File successfully received - 15650 chars
+
+00:46:53 END OF LOG
